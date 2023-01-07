@@ -347,6 +347,7 @@
 
 # ► Physics 
 
+* [Awesome Physics](https://github.com/wbierbower/awesome-physics) - Curated List of Physics Resources
 * [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books)
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
 * [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
